@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af54b532-b791-40ec-b2f7-6a66d9bc74f5" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>E:\xampp\htdocs\SEIP-PHP-64\day_20\blog\composer.json</pharConfigPath>
+    <execution>
+      <executable path="E:\xampp\htdocs\SEIP-PHP-64\day_20\blog\composer.json" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jxpM2S9vQyLJQNxHnPjYaLnAp6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TYPO3Settings" version="202.5.8" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af54b532-b791-40ec-b2f7-6a66d9bc74f5" name="Default" comment="" />
+      <created>1505647999425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505647999425</updated>
+      <workItem from="1505648000942" duration="2063000" />
+      <workItem from="1505650148492" duration="758000" />
+      <workItem from="1505651305752" duration="26470000" />
+      <workItem from="1604755547642" duration="11262000" />
+      <workItem from="1604851075341" duration="9296000" />
+      <workItem from="1604944353473" duration="1002000" />
+      <workItem from="1604992641539" duration="1210000" />
+      <workItem from="1605023116085" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604856820050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604856820050" />
+    <state x="444" y="86" key="NewPhpClassDialog" timestamp="1604772396623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="86" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1604772396623" />
+    <state x="533" y="354" key="NewPhpFileDialog" timestamp="1604856323692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="354" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604856323692" />
+  </component>
+</project>
